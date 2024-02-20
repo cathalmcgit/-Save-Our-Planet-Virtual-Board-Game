@@ -1,0 +1,13 @@
+Go;Other;0;0;0
+Aluminium Alley;Recycling;1;100;50
+Cardboard Court;Recycling;2;100;50
+Plastic Path;Recycling;3;100;50
+Biker Beach;Carbon_Offset;4;250;100
+Footprint Field;Carbon_Offset;5;250;100
+Walking Woods;Carbon_Offset;6;250;100
+Investment Island;Sustainability;7;500;200
+Vegan Valley;Sustainability;8;500;200
+Turbine Town;Renewable_Energy;9;750;400
+Solar City;Renewable_Energy;10;750;400
+Timeout Treehouse;Other;11;0;0
+Jail;Other;12;0;0
